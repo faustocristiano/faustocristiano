@@ -18,8 +18,8 @@ jobs:
 
       - name: Commit and Push Changes
         run: |
-          git config --local user.email "your-email@example.com"
-          git config --local user.name "Your Name"
+          git config --local user.email fausto.cristiano@hotmail.com
+          git config --local user.name Fausto Cristiano
           git add stats.md
           git commit -m "Update stats"
           git push
