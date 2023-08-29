@@ -1,5 +1,9 @@
-### Estatísticas
+# Meu Perfil no GitHub
 
-![Total Commits](https://img.shields.io/badge/Total%20Commits-29-brightgreen)
-![Total PRs](https://img.shields.io/badge/Total%20PRs-4-blue)
-![Total Issues](https://img.shields.io/badge/Total%20Issues-49-red)
+## Resumo
+
+- Total de Estrelas Recebidas: ![Total Stars](https://img.shields.io/badge/Total%20Stars-0-yellow)
+- Total de Commits (2023): ![Total Commits](https://img.shields.io/badge/Total%20Commits-0-brightgreen)
+- Total de Pull Requests (PRs): ![Total PRs](https://img.shields.io/badge/Total%20PRs-0-blue)
+- Total de Issues: ![Total Issues](https://img.shields.io/badge/Total%20Issues-0-red)
+- Contribuições no último ano: ![Contributed](https://img.shields.io/badge/Contributed%20to-0-lightgrey)
