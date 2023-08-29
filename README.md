@@ -1,25 +1,5 @@
-name: Update GitHub Stats
+### Estatísticas
 
-on:
-  push:
-    branches:
-      - main
-
-jobs:
-  update_stats:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v2
-
-      - name: Update Stats
-        run: |
-          echo "Total Commits: $(git rev-list --count HEAD)" > stats.md
-
-      - name: Commit and Push Changes
-        run: |
-          git config --local user.email fausto.cristiano@hotmail.com
-          git config --local user.name Fausto Cristiano
-          git add stats.md
-          git commit -m "Update stats"
-          git push
+![Total Commits](https://img.shields.io/badge/Total%20Commits-29-brightgreen)
+![Total PRs](https://img.shields.io/badge/Total%20PRs-4-blue)
+![Total Issues](https://img.shields.io/badge/Total%20Issues-49-red)
