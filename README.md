@@ -1,8 +1,17 @@
-<div style="background-color:#f4f4f4; padding:20px;">
+Estudante de Engenharia de Telecomunicações, no [IFSC campus SJ]([URL](https://www.ifsc.edu.br/web/campus-sao-jose))
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=faustocristiano&show_icons=true&&theme=dracula&count_private=true)](https://github.com/faustocristiano/)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faustocristiano&layout=compact)](https://github.com/faustocristiano/github-readme-stats)
-
-</div>
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/faustocristiano/">
+        <img align="left" src="https://github-readme-stats.vercel.app/api?username=faustocristiano&show_icons=true&theme=dracula&count_private=true" alt="GitHub Stats" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/faustocristiano/">
+        <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faustocristiano&layout=compact" alt="Top Languages" />
+      </a>
+    </td>
+  </tr>
+</table>
